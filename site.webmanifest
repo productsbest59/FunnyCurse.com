@@ -1,0 +1,20 @@
+{
+  "name": "Funny Curse Generator",
+  "short_name": "Curse Generator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b1a",
+  "theme_color": "#0b0b1a",
+  "icons": [
+    {
+      "src": "/favicon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
